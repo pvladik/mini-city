@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pxXNA
+</name>
+</assembly>
+<members>
+<member name="M:pxXNA.Program.Main(System.String[])">
+ <summary>
+ The main entry point for the application.
+ </summary>
+</member>
+<member name="T:pxXNA.Game1">
+ <summary>
+ This is the main type for your game
+ </summary>
+ 
+</member>
+</members>
+</doc>

@@ -1,0 +1,12 @@
+00:Solar power plant
+01:Build solar power plant
+02:Wind turbine
+03:Build wild turbine
+04:Hospital
+05:Build Hospital
+06:Roads
+07:Build roads
+08:Water tower
+09:Build water tower
+10:Factory
+11:Build Factory
