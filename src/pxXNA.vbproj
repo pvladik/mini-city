@@ -289,6 +289,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy /y /d "$(ProjectDir)fnalibs\x64\*.dll" "$(ProjectDir)$(OutDir)"</PostBuildEvent>
+    <PostBuildEvent>xcopy /y /d "$(ProjectDir)fnalibs\x86\*.dll" "$(ProjectDir)$(OutDir)"</PostBuildEvent>
   </PropertyGroup>
 </Project>
