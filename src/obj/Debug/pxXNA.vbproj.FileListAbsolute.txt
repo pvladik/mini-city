@@ -68,8 +68,8 @@ C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\roadt4.png
 C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\solar_powerplant.png
 C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\watertower.png
 C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\wind_turbine.png
-C:\Users\clarj\mini-city\src\bin\Debug\Content\Font\Arial.spritefont
-C:\Users\clarj\mini-city\src\bin\Debug\Content\Font\Arial_small.spritefont
+C:\Users\clarj\mini-city\src\bin\Debug\Content\Font\Arial_small.xnb
+C:\Users\clarj\mini-city\src\bin\Debug\Content\Font\Arial.xnb
 C:\Users\clarj\mini-city\src\bin\Debug\pxXNA.exe.config
 C:\Users\clarj\mini-city\src\bin\Debug\pxXNA.exe
 C:\Users\clarj\mini-city\src\bin\Debug\pxXNA.pdb
