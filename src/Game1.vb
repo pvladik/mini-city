@@ -9,12 +9,8 @@ Imports Microsoft.Xna.Framework.Graphics
 Public Class Game1
     Inherits Microsoft.Xna.Framework.Game
 
-
-
     Private WithEvents graphics As GraphicsDeviceManager
     Private WithEvents spriteBatch As SpriteBatch
-
-    Public form1 As New Form1()
 
     Public img_grass01 As Texture2D
     Public img_house01 As Texture2D
@@ -554,11 +550,6 @@ Public Class Game1
             print_infobox_name = ""
             print_infobox_price = ""
         End If
-        'debug window
-        If Keyboard.GetState.IsKeyDown(Keys.F5) Then
-            form1.Visible = True
-        End If
-
 
 
         ' mouse check
@@ -980,7 +971,7 @@ Public Class Game1
 
 
 
-        form1.tb_debug.Text = debug_string
+        'form1.tb_debug.Text = debug_string
 
 
         '  spriteBatch.DrawString(FontArial, debug_string.ToString, New Vector2(screen_width - 220, 180), Color.Black)
@@ -1348,9 +1339,7 @@ Public Class Game1
         End If
 
         ''Print Debug to form1
-        If form1.Visible = True Then
-            ' form1.tb_debug.Text = debug_string
-        End If
+
 
 
     End Sub
@@ -1566,7 +1555,7 @@ Public Class Game1
                                     population += 12
                                 End If
                             End If
-                            form1.Text += rnd1.ToString & ";"
+                            'form1.Text += rnd1.ToString & ";"
                         End If
                     End If
 
