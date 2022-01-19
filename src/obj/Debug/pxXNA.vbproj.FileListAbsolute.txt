@@ -1,3 +1,5 @@
+C:\Users\clarj\mini-city\src\bin\Debug\Content\settings.txt
+C:\Users\clarj\mini-city\src\bin\Debug\Content\texts.txt
 C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\Bitmap1.bmp
 C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\construction.png
 C:\Users\clarj\mini-city\src\bin\Debug\Content\tiles\factory.png
@@ -72,11 +74,8 @@ C:\Users\clarj\mini-city\src\bin\Debug\pxXNA.exe.config
 C:\Users\clarj\mini-city\src\bin\Debug\pxXNA.exe
 C:\Users\clarj\mini-city\src\bin\Debug\pxXNA.pdb
 C:\Users\clarj\mini-city\src\bin\Debug\FNA.dll
-C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.vbproj.AssemblyReference.cache
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.vbproj.SuggestedBindingRedirects.cache
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.vbproj.CoreCompileInputs.cache
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.vbproj.CopyComplete
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.exe
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.pdb
-C:\Users\clarj\mini-city\src\bin\Debug\Content\settings.txt.txt
-C:\Users\clarj\mini-city\src\bin\Debug\Content\texts.txt.txt
