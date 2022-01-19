@@ -78,3 +78,5 @@ C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.vbproj.CoreCompileInputs.cache
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.vbproj.CopyComplete
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.exe
 C:\Users\clarj\mini-city\src\obj\Debug\pxXNA.pdb
+C:\Users\clarj\mini-city\src\bin\Debug\Content\settings.txt.txt
+C:\Users\clarj\mini-city\src\bin\Debug\Content\texts.txt.txt
