@@ -1,3 +1,0 @@
-map_size:30
-screem_width:800
-screen_height:600
